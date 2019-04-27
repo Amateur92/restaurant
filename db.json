@@ -41,24 +41,24 @@
       "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
     },
     {
-        id: 4,
-        name:'Shawrma',
-        image: 'images/uthappizza.png',
-        category: 'mains',
-        label:'Delicious',
-        price:'0.99',
-        featured: true,
-        description:'A Delicious Meal than consists of Chicken meat plus many other vegetables.'                    
+        "id": 4,
+        "name":'Shawrma',
+        "image': 'images/uthappizza.png',
+        "category": 'mains',
+        "label":'Delicious',
+        "price":'0.99',
+        "featured": true,
+        "description":'A Delicious Meal than consists of Chicken meat plus many other vegetables.'                    
         },
         {
-        id: 5,
-        name:'Humberger',
-        image: 'images/uthappizza.png',
-        category: 'mains',
-        label:'fantastic!',
-        price:'2.99',
-        featured: false,
-        description:'Delicious Buffalo meat inside a rounded bread to give the Sandwitch a nice look a feel, get it now.'                    
+        "id": 5,
+        "name":'Humberger',
+        "image": 'images/uthappizza.png',
+        "category": 'mains',
+        "label":'fantastic!',
+        "price":'2.99',
+        "featured": false,
+        "description":'Delicious Buffalo meat inside a rounded bread to give the Sandwitch a nice look a feel, get it now.'                    
         }
   ],
   "comments": [
